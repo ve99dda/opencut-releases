@@ -10,11 +10,11 @@
   },
   "auto": {
     "version": "0.1.0",
-    "build": "202611211608",
-    "url": "https://github.com/ve99dda/opencut-releases/releases/download/auto-202611211608/OpenCut-Auto-202611211608.zip",
-    "page": "https://github.com/ve99dda/opencut-releases/releases/tag/auto-202611211608",
-    "sha256": "79f824d186f27e3785fa80e1a23bf6a66dbec8d074fc08bc9740eb18036fd621",
-    "size": 159015656,
+    "build": "202611211613",
+    "url": "https://github.com/ve99dda/opencut-releases/releases/download/auto-202611211613/OpenCut-Auto-202611211613.zip",
+    "page": "https://github.com/ve99dda/opencut-releases/releases/tag/auto-202611211613",
+    "sha256": "c9a7a13afce43894f54681c30f3e43b95a65508c237d2ab05063962e84700a95",
+    "size": 159015700,
     "notes": "Thử bộ cập nhật tự động. Tự làm mới trình dựng sau mỗi video, xuất nhanh hơn."
   }
 }
