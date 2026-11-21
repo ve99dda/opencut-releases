@@ -1,0 +1,11 @@
+{
+  "opencut": {
+    "version": "2.0.0",
+    "build": "202611211608",
+    "url": "https://github.com/ve99dda/opencut-releases/releases/download/opencut-202611211608/OpenCut-202611211608.zip",
+    "page": "https://github.com/ve99dda/opencut-releases/releases/tag/opencut-202611211608",
+    "sha256": "03ff3a4046dbc968a600046ac7ecda030a713642a08b01893006d312a47f39ce",
+    "size": 158960300,
+    "notes": "Thử bộ cập nhật tự động. Xuất video nhanh hơn (sửa lỗi chậm dần khi xuất nhiều video)."
+  }
+}
