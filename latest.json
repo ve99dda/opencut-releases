@@ -7,5 +7,14 @@
     "sha256": "03ff3a4046dbc968a600046ac7ecda030a713642a08b01893006d312a47f39ce",
     "size": 158960300,
     "notes": "Thử bộ cập nhật tự động. Xuất video nhanh hơn (sửa lỗi chậm dần khi xuất nhiều video)."
+  },
+  "auto": {
+    "version": "0.1.0",
+    "build": "202611211608",
+    "url": "https://github.com/ve99dda/opencut-releases/releases/download/auto-202611211608/OpenCut-Auto-202611211608.zip",
+    "page": "https://github.com/ve99dda/opencut-releases/releases/tag/auto-202611211608",
+    "sha256": "79f824d186f27e3785fa80e1a23bf6a66dbec8d074fc08bc9740eb18036fd621",
+    "size": 159015656,
+    "notes": "Thử bộ cập nhật tự động. Tự làm mới trình dựng sau mỗi video, xuất nhanh hơn."
   }
 }
